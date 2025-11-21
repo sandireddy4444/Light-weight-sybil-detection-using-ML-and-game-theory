@@ -27,7 +27,7 @@ Our Game-Theoretic Hybrid Model successfully solves the trade-off:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/Sybil-Detection-Game-Theory.git](https://github.com/YOUR-USERNAME/Sybil-Detection-Game-Theory.git)
+   git clone [ https://github.com/sandireddy4444/Light-weight-sybil-detection-using-ML-and-game-theory.git]
    cd Sybil-Detection-Game-Theory
 2. Install dependencies:
     pip install -r requirements.txt
@@ -82,4 +82,4 @@ Once you have organized the folders and created the two files above, open your t
     git push -u origin main
     ```
 
-You are now live. This structure proves to the panel that you are organized and your project i
+You are now live.
